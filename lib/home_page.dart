@@ -40,7 +40,8 @@ class HomePage extends StatelessWidget {
                           ),
                         ),
                         TextSpan(
-                          text: ' ●',
+                          // text: ' ●',
+                          text: '',
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                             fontSize: 32,
