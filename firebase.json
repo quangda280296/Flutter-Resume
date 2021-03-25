@@ -1,10 +1,5 @@
 {
   "hosting": {
-    "public": "build/web",
-    "redirects": [ {
-      "source": "**",
-      "destination": "index.html",
-      "type": 302
-    } ]
+    "public": "build/web"
   }
 }
