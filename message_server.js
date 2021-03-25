@@ -13,8 +13,8 @@ admin.initializeApp(functions.config().firebase)
 
 const api = functions.https.onRequest(app)
 
-const authorMail = "convoitoto.help@gmail.com"
-const authorPassword = "convoitoto_password"
+const authorMail = "quangda280296@gmail.com"
+const authorPassword = "ABCabc28021996"
 
 const transporter = nodemailer.createTransport({
   service: 'gmail',
