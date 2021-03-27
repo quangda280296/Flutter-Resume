@@ -8,3 +8,4 @@ Resume Web page in Flutter
 [message_server.js](https://github.com/quangda280296/Flutter-Resume/blob/master/message_server.js)
 
 ## Screenshot
+<img src="./screenshot/Capture.JPG">

@@ -6,25 +6,25 @@ import 'base_page.dart';
 import 'data.dart';
 
 const INTRODUCE =
-    "I am Quang, mobile developer from Ha Noi, Viet Nam. I have rich experience in Android development, and also I am good at iOS, a bit less experience in Flutter.";
+    "I am Quang, Mobile Application Developer from Ha Noi, Viet Nam. I have rich experience in Android development, also I am good at iOS, and a bit less experience in Flutter.";
 
 const SKILLS = """
-Android (Both Java and Kotlin):
+Android (Java, Kotlin):
 - Have 3 years+ experience in Android development.
-- Familiar with MVC, MVP, MVVM, MVRX (AirBnb), Clean architecture,...
+- Familiar with MVC, MVP, MVVM, MVRX (AirBnb), Clean Architectures,...
 - Familiar with Android Jetpack, RxJava, FCM, Firebase, Google map, Socket, MQTT, Dagger, Koin...
 
-IOS (Swift)
+IOS (Swift):
 - Have < 1 year experience in IOS development.
-- Familiar with OOP, OOD, memory management, property, enums, structures, classes...
-- Familiar with protocol, delegate và higher order functions, GCD, RxSwift...
+- Familiar with OOP, OOD, Memory Management, Property, Enums, Structures, Classes...
+- Familiar with Protocol, Delegate and Higher Order Functions, GCD, RxSwift...
 
 Flutter:
 - Have 6 month+ experience in Flutter.
 - Faliliar with Bloc, ScopeModel, Provider,...
 
 Confident in Algorithm, OOP concepts, Design Pattern, SOLID principles,...
-Proficient in using git.
+Proficient in using Git, SQL.
 """;
 
 const AVATAR_SIZE = 108.0;
