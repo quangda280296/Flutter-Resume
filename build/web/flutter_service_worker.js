@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "2aa350bd2aeab88b601a593f793734c0",
 "index.html": "1878e471b673784ec88d9190b4e3bcbe",
 "/": "1878e471b673784ec88d9190b4e3bcbe",
-"main.dart.js": "064417d844d8ad3d0b639b74f5ef1d45",
+"main.dart.js": "ec1e64a6136f89ab3a00a53762d1148c",
 "version.json": "f338f9df0c554c49163fa91cfe931063"
 };
 

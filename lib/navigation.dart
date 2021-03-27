@@ -104,7 +104,7 @@ class Navigation extends StatelessWidget {
               ),
               SizedBox(height: 4),
               Text(
-                "Mobile developer",
+                "Mobile Developer",
                 style: TextStyle(
                   color: Colors.white,
                   fontWeight: FontWeight.w200,
