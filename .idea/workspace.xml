@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdd76d1b-c44c-4fd8-a227-57b1791673fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Flutter-Resume-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flutter-Resume-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/web/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/main.dart.js" afterDir="false" />
-    </list>
+    <list default="true" id="fdd76d1b-c44c-4fd8-a227-57b1791673fd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616820219674</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix cv">
+      <created>1622798391543</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622798391543</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -109,7 +110,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="fix bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bugs" />
+    <MESSAGE value="fix cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix cv" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -119,10 +121,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="604" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616666838609" />
-    <state x="587" y="87" key="CommitChangelistDialog2" timestamp="1616820216991">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="440" y="25" key="CommitChangelistDialog2" timestamp="1622798391152">
+      <screen x="0" y="25" width="1440" height="818" />
     </state>
     <state x="587" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616820216991" />
+    <state x="440" y="25" key="CommitChangelistDialog2/0.25.1440.818@0.25.1440.818" timestamp="1622798391152" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1616664313281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -147,10 +150,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616665786988" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1616820191908">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="414" y="214" key="Vcs.Push.Dialog.v2" timestamp="1622798394509">
+      <screen x="0" y="25" width="1440" height="818" />
     </state>
     <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616820191908" />
+    <state x="414" y="214" key="Vcs.Push.Dialog.v2/0.25.1440.818@0.25.1440.818" timestamp="1622798394509" />
     <state x="657" y="263" width="605" height="534" key="find.popup" timestamp="1616669332128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
