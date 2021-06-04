@@ -28,5 +28,5 @@ class Data {
       "https://us-central1-workout-e1b53.cloudfunctions.net/api/message";
 
   static const CV_URL =
-      "https://www.topcv.vn/xem-cv/797fae2c32a5e4be9c2df4e482aefafe";
+      "https://www.topcv.vn/xem-cv/VlgCAFNUVAJWBFJUUg1UUwxVV10DUVFSWQFTAQfafe";
 }
