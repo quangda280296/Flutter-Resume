@@ -36365,7 +36365,7 @@ S.tW.prototype={
 ar:function(){var s=null,r=t.Xk
 return new S.xO(new N.b7(s,t.fS),H.c([new N.b7(s,r),new N.b7(s,r),new N.b7(s,r),new N.b7(s,r),new N.b7(s,r)],t.Rd),C.k)}}
 S.xO.prototype={
-V7:function(){T.Nn("https://www.topcv.vn/xem-cv/797fae2c32a5e4be9c2df4e482aefafe")},
+V7:function(){T.Nn("https://www.topcv.vn/xem-cv/VlgCAFNUVAJWBFJUUg1UUwxVV10DUVFSWQFTAQfafe")},
 YG:function(){this.BO(4)},
 YH:function(){return new T.D4(T.ks(C.bD,H.c([T.W8(!1,new O.up(new S.a4_(),null),0),T.aeW(new X.CT(this.gEh(),this.gFf(),this.e[0]))],t.Y),C.c8),null)},
 Dk:function(a){var s=this,r=s.e
@@ -36519,7 +36519,7 @@ B.ui.prototype={
 ar:function(){return new B.JN(C.k)}}
 B.JN.prototype={
 K:function(a,b){var s=null
-return new F.fp(C.j,new T.cM(C.mR,T.dI(H.c([new T.m9("My skills",s),T.az(s,32,s),L.c4("Android (Java, Kotlin):\n- Have 3 years+ experience in Android development.\n- Familiar with MVC, MVP, MVVM, MVRX (AirBnb), Clean Architectures,...\n- Familiar with Android Jetpack, RxJava, FCM, Firebase, Google map, Socket, MQTT, Dagger, Koin...\n\nIOS (Swift):\n- Have < 1 year experience in IOS development.\n- Familiar with OOP, OOD, Memory Management, Property, Enums, Structures, Classes...\n- Familiar with Protocol, Delegate and Higher Order Functions, GCD, RxSwift...\n\nFlutter:\n- Have 6 month+ experience in Flutter.\n- Faliliar with Bloc, ScopeModel, Provider,...\n\nConfident in Algorithm, OOP concepts, Design Pattern, SOLID principles,...\nProficient in using Git, SQL.\n",s,s,s,A.bq(s,s,C.l1,s,s,s,s,s,s,s,s,14,s,s,s,s,!0,s,s,s,s,s,s),s,s),T.az(s,24,s),new A.iz(new B.a4u(this),s)],t.Y),C.a_,C.A,C.N),s),s)}}
+return new F.fp(C.j,new T.cM(C.mR,T.dI(H.c([new T.m9("My skills",s),T.az(s,32,s),L.c4("Android (Java, Kotlin):\n- Have > 4 years+ experience in Android development.\n- Familiar with MVC, MVP, MVVM, MVRX (AirBnb), Clean Architectures,...\n- Familiar with Android Jetpack, RxJava, FCM, Firebase, Google map, Socket, MQTT, Dagger, Koin...\n\nIOS (Swift):\n- Have > 1 year experience in IOS development.\n- Familiar with OOP, OOD, Memory Management, Property, Enums, Structures, Classes...\n- Familiar with Protocol, Delegate and Higher Order Functions, GCD, RxSwift...\n\nFlutter:\n- Have 6 month+ experience in Flutter.\n- Faliliar with Bloc, ScopeModel, Provider,...\n\nConfident in Algorithm, OOP concepts, Design Pattern, SOLID principles,...\nProficient in using Git, SQL.\n",s,s,s,A.bq(s,s,C.l1,s,s,s,s,s,s,s,s,14,s,s,s,s,!0,s,s,s,s,s,s),s,s),T.az(s,24,s),new A.iz(new B.a4u(this),s)],t.Y),C.a_,C.A,C.N),s),s)}}
 B.a4u.prototype={
 $2:function(a,b){var s=b.b,r=s>500?(s-24)/2:s,q=$.ak6(),p=H.ah(q).j("at<1,e8*>")
 return T.a1B(P.aC(new H.at(q,new B.a4t(this.a,r),p),!0,p.j("b_.E")),C.jm,C.n,24,24)},
