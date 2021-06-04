@@ -10,12 +10,12 @@ const INTRODUCE =
 
 const SKILLS = """
 Android (Java, Kotlin):
-- Have 3 years+ experience in Android development.
+- Have > 4 years+ experience in Android development.
 - Familiar with MVC, MVP, MVVM, MVRX (AirBnb), Clean Architectures,...
 - Familiar with Android Jetpack, RxJava, FCM, Firebase, Google map, Socket, MQTT, Dagger, Koin...
 
 IOS (Swift):
-- Have < 1 year experience in IOS development.
+- Have > 1 year+ experience in IOS development.
 - Familiar with OOP, OOD, Memory Management, Property, Enums, Structures, Classes...
 - Familiar with Protocol, Delegate and Higher Order Functions, GCD, RxSwift...
 
